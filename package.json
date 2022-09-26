@@ -1,0 +1,25 @@
+{
+  "name": "tcore-generic-endpoint-plugin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:douglaszuqueto/tcore-generic-endpoint-plugin.git",
+  "author": "douglaszuqueto <douglas.zuqueto@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tago-io/tcore-sdk": "^0.6.0"
+  },
+  "tcore": {
+    "name": "Generic Endpoint",
+    "short_description": "Generic Endpoint Plugin for TagoCore Plataform",
+    "full_description": "./README.md",
+    "types": [
+      "service"
+    ],
+    "permissions": [
+      "device",
+      "device-data",
+      "action",
+      "analysis"
+    ]
+  }
+}

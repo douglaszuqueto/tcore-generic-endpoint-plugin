@@ -1,3 +1,3 @@
-# TCore - HTTP Generic Endpoint Plugin
+# TCore - Generic Endpoint Plugin
 
-HTTP Generic Endpoint for TagoCore Plataform
+Generic Endpoint Plugin for TagoCore Plataform
